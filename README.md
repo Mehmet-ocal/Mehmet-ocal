@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://www.weblineindia.com/wp-content/uploads/2019/01/react-native-build-mobile-apps-with-increased-developer-productivity.gif" style="display: inline-block;" width="500">
-</div>
+<p align="center">
+  <img src="https://www.weblineindia.com/wp-content/uploads/2019/01/react-native-build-mobile-apps-with-increased-developer-productivity.gif" width="500">
+</p>
 <h1 align="center">Hi 👋, I'm Mehmet Öcal</h1>
 <h3 align="center">A passionate student of Management Information Systems at Marmara University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
