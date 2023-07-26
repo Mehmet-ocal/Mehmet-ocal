@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif)](https://rishavchanda.io)
+![MasterHead]([https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif](https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif))
 <h1 align="center">Hi 👋, I'm Mehmet Öcal</h1>
 <h3 align="center">A passionate student of Management Information Systems at Marmara University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
